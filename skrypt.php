@@ -24,5 +24,7 @@ else
 <h1 class="naglowek"> bledne logowanie < /h1>
 <a href="index.html> powrót </a>
 <? }?>
+
+
 </body></html>
 
