@@ -11,3 +11,17 @@ margin-bottom:5px;
 
 
 }
+
+div.tresc{
+background-color:green;
+width: 300px;
+
+position: relative;
+top :10px;
+bottom: 10px;
+margin-top: 5px;
+margin-bottom:5px;
+
+
+
+}
